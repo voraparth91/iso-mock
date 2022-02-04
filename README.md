@@ -6,5 +6,5 @@ gradle installApp
 build/install/jpos-rest/bin/q2
 ````
 
-###Endpoint
+### Endpoint
 http://localhost:8080/api/jpos
